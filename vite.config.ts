@@ -12,5 +12,5 @@ export default defineConfig({
       },
     }),
   ],
-  base: process.env.NODE_ENV === "production" ? "/json-exam/" : "/",
+  base: process.env.NODE_ENV === "production" ? "/json-quiz/" : "/",
 });
